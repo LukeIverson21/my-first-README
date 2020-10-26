@@ -7,7 +7,7 @@ Repo explaining README.md
 1. Go to [repo](https://github.com/SEI-ATL/tic-tac-toe)
 2. `Fork` and `Clone` repo.
 3. git clone on local machine via `Terminal`
-4. `code .` into tic-tac-toe repo.
+4. `code .` into tic-tac-toe repo via `Terminal`
 
 
 THIS IS THE `JAVASCRIPT` DATA OF MY TIC-TAC-TOE GAME
